@@ -1,0 +1,12 @@
+A=imread('/home/nicz/Downloads/badut.jpg');
+subplot(4,4,1);
+imshow(A);
+B=imread('/home/nicz/Downloads/kupu.jpg');
+subplot(4,4,6);
+imshow(B);
+C=imread('/home/nicz/Downloads/kupu1.jpg');
+subplot(4,4,11);
+imshow(C);
+D=imread('/home/nicz/Downloads/badut.jpg');
+subplot(4,4,16);
+imshow(D);
